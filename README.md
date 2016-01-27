@@ -1,12 +1,12 @@
 
 <span class="badges">
 ![Build Status](https://build.coinify.com/status/INT-WHMCS)
-
-[API Documentation](https://api.coinify.com) 
 </span>
 
 About
 =====
+[API Documentation](https://api.coinify.com)
+
 + Payment gateway for WHMCS using Coinify version 3 API
 + Version 0.3
 
