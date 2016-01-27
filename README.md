@@ -1,6 +1,6 @@
 
 <span class="badges">
-![Build Status](https://build.coinify.com/status/INT-WHMCS)
+![Build Status](https://build.coinify.com/status/INT-WHMCS) [API Documentation](https://api.coinify.com) 
 </span>
 
 About
